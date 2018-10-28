@@ -1,0 +1,3986 @@
+{
+  "CALAMA": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "3": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "SAN CLEMENTE": {
+    "1": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "ALGARROBO": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "QUILPUE": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "2": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "3": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "ÑUÑOA": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "3": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "4": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "VIÑA DEL MAR": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "3": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "4": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "CASTRO": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "2": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "LA FLORIDA": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "3": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "ESTACION CENTRAL": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "2": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "3": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "4": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "OSORNO": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "3": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "MACUL": {
+    "1": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "3": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "CONCEPCION": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "3": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "4": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "SAN BERNARDO": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "3": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "4": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "ARICA": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "3": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "VALDIVIA": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "3": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "PUERTO MONTT": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "3": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "ANDACOLLO": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "LA SERENA": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "2": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "3": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "MAIPU": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "2": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "3": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "4": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "VILLA ALEMANA": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "3": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "CURACAVI": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "3": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "LA CISTERNA": {
+    "1": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "3": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "4": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "PROVIDENCIA": {
+    "1": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "3": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "VALPARAISO": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "2": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "3": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "4": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "CORONEL": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "4": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "LAGO RANCO": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "TALCA": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "3": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "BUIN": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "3": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "FUTALEUFU": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "PEÑALOLEN": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "3": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "PUENTE ALTO": {
+    "1": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "3": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "SANTA BARBARA": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "ANTOFAGASTA": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "2": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "3": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "PEÑAFLOR": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "3": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "TALCAHUANO": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "2": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "3": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "SAN PEDRO DE LA PAZ": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "3": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "CUNCO": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "SANTIAGO": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "3": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "4": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "LINARES": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "2": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "3": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "RECOLETA": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "3": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "4": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "TALAGANTE": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "3": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "CURICO": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "2": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "3": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "4": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "CARTAGENA": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "OVALLE": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "3": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "4": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "COELEMU": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "CHIGUAYANTE": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "3": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "QUILICURA": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "3": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "LA PINTANA": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "LA REINA": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "3": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "SAN FERNANDO": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "3": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "4": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "TEMUCO": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "3": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "4": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "SAN MIGUEL": {
+    "1": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "3": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "4": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "PUERTO VARAS": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "3": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "LOS ANGELES": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "3": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "4": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "PORTEZUELO": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "LEBU": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "VILLARRICA": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "3": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "IQUIQUE": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "3": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "4": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "LO BARNECHEA": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "2": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "3": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "RANCAGUA": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "3": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "4": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "PADRE HURTADO": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "2": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "TENO": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "CALBUCO": {
+    "1": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "2": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "PARRAL": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "PAINE": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "3": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "LAUTARO": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "SANTA CRUZ": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "3": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "LOTA": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "LONCOCHE": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "TOLTEN": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "CHIMBARONGO": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "MACHALI": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "3": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "SAN RAMON": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "4": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "LAS CONDES": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "3": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "MULCHEN": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "RENGO": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "CONCON": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "2": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "3": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "CERRILLOS": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "TOME": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "4": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "QUILLOTA": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "2": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "3": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "VITACURA": {
+    "1": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "2": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "3": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "PUNTA ARENAS": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "2": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "3": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "SAN ANTONIO": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "2": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "QUINTA NORMAL": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "2": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "4": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "YUNGAY": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "2": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "CHILLAN": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "3": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "4": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "EL BOSQUE": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "NANCAGUA": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "MOSTAZAL": {
+    "1": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "NACIMIENTO": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "DOÑIHUE": {
+    "1": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "2": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "COPIAPO": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "2": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "3": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "PUCON": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "PEDRO AGUIRRE CERDA": {
+    "1": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "4": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "ALHUE": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "MELIPILLA": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "3": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "COLINA": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "3": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "SAN NICOLAS": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "ALTO HOSPICIO": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "PADRE LAS CASAS": {
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "COLTAUCO": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "COQUIMBO": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "SAN VICENTE": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "2": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "COIHAIQUE": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "2": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "4": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "SANTO DOMINGO": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "2": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "INDEPENDENCIA": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "3": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "HUALAIHUE": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "2": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "LAS CABRAS": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "LICANTEN": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "HUECHURABA": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "3": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "CURANILAHUE": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "CHEPICA": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "VICTORIA": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "FUTRONO": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "CASABLANCA": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "3": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "MAULE": {
+    "2": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "4": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "CERRO NAVIA": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "2": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "CALERA DE TANGO": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "3": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "LA LIGUA": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "SAN JAVIER": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "HUALPEN": {
+    "1": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "3": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "4": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "ARAUCO": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "3": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "SAN FELIPE": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "2": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "3": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "4": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "LO ESPEJO": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "SANTA JUANA": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "2": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "LOS VILOS": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "CHAITEN": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "PURRANQUE": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "PIRQUE": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "3": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "VALLENAR": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "2": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "3": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "REQUINOA": {
+    "1": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "2": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "PUDAHUEL": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "3": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "LAJA": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "2": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "3": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "PENCO": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "ERCILLA": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "CAUQUENES": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "LOS ANDES": {
+    "1": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "2": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "3": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "4": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "PERALILLO": {
+    "1": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "SAN JOAQUIN": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "4": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "DIEGO DE ALMAGRO": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "2": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "SAN IGNACIO": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "2": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "CALERA": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "3": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "4": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "PICHILEMU": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "COBQUECURA": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "ANCUD": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "LOS MUERMOS": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "LAMPA": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "2": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "RIO BUENO": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "EL CARMEN": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "TREGUACO": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "CONCHALI": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "GALVARINO": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "COCHRANE": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "PICHIDEGUA": {
+    "1": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "LO PRADO": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "2": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "SAN PEDRO": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "CHILE CHICO": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "NATALES": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "TILTIL": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "MOLINA": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "4": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "GRANEROS": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "2": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "CONSTITUCION": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "3": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "4": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "RENCA": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "4": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "POZO ALMONTE": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "MAULLIN": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "MEJILLONES": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "NUEVA IMPERIAL": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "4": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "PAIGUANO": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "AISEN": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "PUERTO OCTAY": {
+    "1": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "LLAILLAY": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "CARAHUE": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "ILLAPEL": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "PITRUFQUEN": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "LOS LAGOS": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "LANCO": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "CHANCO": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "PAREDONES": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "LITUECHE": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "OLIVAR": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "COLLIPULLI": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "NEGRETE": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "COINCO": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "PUYEHUE": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "HUALQUI": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "CURACAUTIN": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "4": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "SAN ROSENDO": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "PETORCA": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "2": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "CABILDO": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "MAFIL": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "ANGOL": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "2": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "3": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "4": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "COMBARBALA": {
+    "1": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "HIJUELAS": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "CAÑETE": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "PANGUIPULLI": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "QUINTERO": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "LIMACHE": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "PANQUEHUE": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "3": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "EL MONTE": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "LA CRUZ": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "SANTA MARIA": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "SAN JOSE DE MAIPO": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "LOLOL": {
+    "1": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "LA UNION": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "3": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "RETIRO": {
+    "1": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "2": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "TOCOPILLA": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "SALAMANCA": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "CHOLCHOL": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "SAN CARLOS": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "2": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "COCHAMO": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "HUALAÑE": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "MARIQUINA": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "LA GRANJA": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "ISLA DE MAIPO": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "COIHUECO": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "QUEMCHI": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "PELLUHUE": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "PINTO": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "PERQUENCO": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "ANTUCO": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "YUMBEL": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "TUCAPEL": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "RANQUIL": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "FREIRE": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "QUELLON": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "NOGALES": {
+    "1": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "2": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "PAILLACO": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "DALCAHUE": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "BULNES": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "CHILLAN VIEJO": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "PUREN": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "VILCUN": {
+    "1": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "2": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "LOS ALAMOS": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "PORVENIR": {
+    "1": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "TALTAL": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "PUTAENDO": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "HUASCO": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "FRUTILLAR": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "3": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "ZAPALLAR": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "TRAIGUEN": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "PUNITAQUI": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "SAN FABIAN": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "NINHUE": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "MONTE PATRIA": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "QUINCHAO": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "CALLE LARGA": {
+    "1": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "3": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "QUIRIHUE": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "2": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "CHAÑARAL": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "COLBUN": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "CURACO DE VELEZ": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "MELIPEUCO": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "2": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "PALMILLA": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "CORRAL": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "PUCHUNCAVI": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "EL QUISCO": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "RIO NEGRO": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "4": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "FRESIA": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "CANELA": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "VICUÑA": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "2": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "VICHUQUEN": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "CHONCHI": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "2": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "LONGAVI": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "2": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "CISNES": {
+    "1": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "CALDERA": {
+    "1": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "2": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "TIRUA": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "CODEGUA": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "2": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "MARIA PINTO": {
+    "1": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "QUILLON": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "LONQUIMAY": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "FLORIDA": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "OLMUE": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "ISLA DE PASCUA": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "QUINTA DE TILCOCO": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "MARCHIHUE": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "CABO DE HORNOS": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "CATEMU": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "CUREPTO": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "QUILLECO": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "2": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "ROMERAL": {
+    "1": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    },
+    "2": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "NAVIDAD": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "SAGRADA FAMILIA": {
+    "1": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "CABRERO": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "CONTULMO": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "LLANQUIHUE": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "FREIRINA": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "LUMACO": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "PEMUCO": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "CURARREHUE": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "PEUMO": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "RINCONADA": {
+    "2": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "QUEILEN": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "PALENA": {
+    "1": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "SAAVEDRA": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "GORBEA": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "PICA": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "PAPUDO": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    },
+    "2": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "MARIA ELENA": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "RIO HURTADO": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "PLACILLA": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "YERBAS BUENAS": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "4": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "GUAITECAS": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "JUAN FERNANDEZ": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "RIO IBAÑEZ": {
+    "1": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "ÑIQUEN": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "SAN PEDRO DE ATACAMA": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "SAN ESTEBAN": {
+    "1": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "EL TABO": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "RAUCO": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "RIO CLARO": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "LOS SAUCES": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "TIERRA AMARILLA": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "SAN PABLO": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    },
+    "2": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "ALTO DEL CARMEN": {
+    "1": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "RENAICO": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "VILLA ALEGRE": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    },
+    "2": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "SAN JUAN DE LA COSTA": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    },
+    "2": {
+      "medio": true,
+      "alto": true,
+      "bajo": true
+    }
+  },
+  "MALLOA": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "TEODORO SCHMIDT": {
+    "1": {
+      "bajo": true,
+      "medio": true,
+      "alto": true
+    }
+  },
+  "ALTO BIOBIO": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "EMPEDRADO": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "HUARA": {
+    "1": {
+      "bajo": true,
+      "alto": true,
+      "medio": true
+    }
+  },
+  "PELARCO": {
+    "1": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "PENCAHUE": {
+    "1": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "QUILACO": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "COLCHANE": {
+    "1": {
+      "alto": true,
+      "bajo": true,
+      "medio": true
+    }
+  },
+  "CAMIÑA": {
+    "1": {
+      "medio": true,
+      "bajo": true,
+      "alto": true
+    }
+  },
+  "PUTRE": {
+    "1": {
+      "alto": true,
+      "medio": true,
+      "bajo": true
+    }
+  },
+  "CAMARONES": {
+    "1": {
+      "alto": true
+    }
+  }
+}
