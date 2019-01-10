@@ -1,0 +1,4 @@
+tipo_inst_1
+Centros de Formación Técnica
+Institutos Profesionales
+Universidades

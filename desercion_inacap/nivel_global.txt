@@ -1,0 +1,4 @@
+nivel_global
+Postgrado
+Postítulo
+Pregrado
